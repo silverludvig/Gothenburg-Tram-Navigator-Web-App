@@ -13,3 +13,4 @@ The application is divided architecturally into three main parts, each of which 
 
 
 
+<img width="907" alt="app-shortest" src="https://github.com/silverludvig/Gothenburg-Tram-Navigator-Web-App/assets/94353353/0c1a8707-b252-4edb-a670-96c62e0c064b">
