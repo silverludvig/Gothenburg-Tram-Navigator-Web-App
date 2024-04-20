@@ -1,9 +1,15 @@
 # Gothenburg-Tram-Navigator-Web-App
 
-This application serves as a comprehensive solution for route optimization within Gothenburg's tram network, facilitating user inquiries about the fastest or shortest routes between any two points. Designed to support daily commuters in their transit planning, this tool significantly enhances the efficiency of urban transportation systems.
+This application allows users to ask questions about the shortest or fastest routes between any two points, providing a comprehensive solution for route optimization within Gothenburg's tram network. This technology dramatically increases the effectiveness of urban transportation systems and is intended to assist daily commuters in their transit planning.
 
-The application is architecturally segmented into three primary components, each aligning with a specific phase of development and corresponding to a series of targeted educational lectures:
-1. **Data Integration Module**: This initial phase focuses on Information Extraction, where diverse data from multiple sources and formats (including plain text and JSON) are aggregated to form a comprehensive database.
-2. **Graph Analysis Engine**: The second phase involves constructing a versatile library of graph analysis tools, not limited to transport networks but extendable to various types of graph-based data structures. This involves intensive exercises in object-oriented design to ensure scalability and robustness.
-3. **Interactive Web Interface**: The final component encompasses building a dynamic web server and user interface, enabling end-users to interactively query and visualize optimal transit routes. This component integrates advanced visualization libraries and web framework technologies.
+The application is divided architecturally into three main parts, each of which corresponds to a particular stage of development 
+
+1. **Data Integration Module**: Information extraction is the main focus of this first stage, which involves combining various data from various sources and formats (such as plain text and JSON) to create an extensive database.
+2. **Graph Analysis Engine**: Building a flexible toolkit of graph analysis tools that can be extended to different kinds of graph-based data structures in addition to transport networks is the second stage. To guarantee scalability and robustness, extensive object-oriented design activities are required.
+3. **Interactive Web Interface**: The last part consists of creating a dynamic web server and user interface that lets users query and view the best possible transit routes in an interactive manner. Web framework technology and sophisticated visualization libraries are integrated into this component.
+
+
+
+
+
 
