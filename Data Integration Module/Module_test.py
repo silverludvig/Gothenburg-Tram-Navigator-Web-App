@@ -1,7 +1,3 @@
-# DO NOT MODIFY THIS FILE
-
-#TEST lab1
-
 import os.path
 import sys
 import json
@@ -59,6 +55,5 @@ for query, answer in answers.items():
             print(f"Error in {query}, your result is {answer_query(tramdict, query)}, but the expected is {answer}")
             outcome = False
 
-#-----------------------------
-#final result
+
 assert outcome == True
